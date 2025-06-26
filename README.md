@@ -1,2 +1,3 @@
 # Gravational_Lensing_in_Plasma
-这是我的代码树
+这是我的科研训练的mathematica计算程序的迭代记录
+课题是等离子体附近引力透镜偏折角的计算
